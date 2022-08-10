@@ -1,7 +1,7 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Jonathan Vieira reis and my nickname is "Jhonny
 
-🔭<b> Currently I work in the refriko group as a Helpdesk </b> 
+<b> Currently I work in the refriko group as a Helpdesk </b> 
 
 <p><b> Tools and technologies </b> </p>
 
