@@ -1,8 +1,8 @@
 ## Hello there, I'm Jonathan
 
-- 🔭 Hoje trabalho com Infraestrutura e HelpDesk
-- 🌱 Analise e desenvolvimento de sistemas
-- 📫 Contate-me no e-mail: jonathanvreis18@gmail.com
+- 🔭 IT Analyst
+- 🌱 AI enthusiast
+- 📫 Contact me on email: jonathanvreis18@gmail.com
 
 <div>
   <a href="https://github.com/Jhonnis"></a>
